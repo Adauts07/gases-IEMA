@@ -1,0 +1,322 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2017-01-04,01:00,Rodoviária do Plano Piloto,DF03,PTS,89.61,ug/m3,manual
+2017-01-07,01:00,Rodoviária do Plano Piloto,DF03,PTS,68.78,ug/m3,manual
+2017-01-10,01:00,Rodoviária do Plano Piloto,DF03,PTS,80.72,ug/m3,manual
+2017-01-18,01:00,Rodoviária do Plano Piloto,DF03,PTS,94.99,ug/m3,manual
+2017-01-24,01:00,Rodoviária do Plano Piloto,DF03,PTS,127.55,ug/m3,manual
+2017-03-10,01:00,Rodoviária do Plano Piloto,DF03,PTS,84.45,ug/m3,manual
+2017-03-14,01:00,Rodoviária do Plano Piloto,DF03,PTS,108.77,ug/m3,manual
+2017-03-20,01:00,Rodoviária do Plano Piloto,DF03,PTS,197.72,ug/m3,manual
+2017-03-30,01:00,Rodoviária do Plano Piloto,DF03,PTS,102.84,ug/m3,manual
+2017-04-05,01:00,Rodoviária do Plano Piloto,DF03,PTS,104.73,ug/m3,manual
+2017-04-20,01:00,Rodoviária do Plano Piloto,DF03,PTS,116.03,ug/m3,manual
+2017-04-28,01:00,Rodoviária do Plano Piloto,DF03,PTS,84.22,ug/m3,manual
+2017-05-04,01:00,Rodoviária do Plano Piloto,DF03,PTS,83.21,ug/m3,manual
+2017-05-10,01:00,Rodoviária do Plano Piloto,DF03,PTS,100.47,ug/m3,manual
+2017-05-16,01:00,Rodoviária do Plano Piloto,DF03,PTS,162.87,ug/m3,manual
+2017-05-24,01:00,Rodoviária do Plano Piloto,DF03,PTS,133.68,ug/m3,manual
+2017-06-03,01:00,Rodoviária do Plano Piloto,DF03,PTS,88.07,ug/m3,manual
+2017-06-09,01:00,Rodoviária do Plano Piloto,DF03,PTS,140.98,ug/m3,manual
+2017-06-15,01:00,Rodoviária do Plano Piloto,DF03,PTS,91.2,ug/m3,manual
+2017-06-21,01:00,Rodoviária do Plano Piloto,DF03,PTS,135.55,ug/m3,manual
+2017-06-27,01:00,Rodoviária do Plano Piloto,DF03,PTS,110.6,ug/m3,manual
+2017-07-03,01:00,Rodoviária do Plano Piloto,DF03,PTS,180.7,ug/m3,manual
+2017-08-08,01:00,Rodoviária do Plano Piloto,DF03,PTS,150.38,ug/m3,manual
+2017-08-14,01:00,Rodoviária do Plano Piloto,DF03,PTS,162.6,ug/m3,manual
+2017-09-27,01:00,Rodoviária do Plano Piloto,DF03,PTS,120.96,ug/m3,manual
+2017-10-03,01:00,Rodoviária do Plano Piloto,DF03,PTS,50.08,ug/m3,manual
+2017-10-09,01:00,Rodoviária do Plano Piloto,DF03,PTS,120.47,ug/m3,manual
+2017-10-15,01:00,Rodoviária do Plano Piloto,DF03,PTS,104.85,ug/m3,manual
+2017-10-28,01:00,Rodoviária do Plano Piloto,DF03,PTS,83.69,ug/m3,manual
+2017-11-03,01:00,Rodoviária do Plano Piloto,DF03,PTS,75.99,ug/m3,manual
+2017-11-09,01:00,Rodoviária do Plano Piloto,DF03,PTS,80.15,ug/m3,manual
+2017-11-15,01:00,Rodoviária do Plano Piloto,DF03,PTS,67.17,ug/m3,manual
+2017-11-21,01:00,Rodoviária do Plano Piloto,DF03,PTS,104.27,ug/m3,manual
+2017-11-27,01:00,Rodoviária do Plano Piloto,DF03,PTS,273.31,ug/m3,manual
+2017-12-09,01:00,Rodoviária do Plano Piloto,DF03,PTS,73.86,ug/m3,manual
+2017-12-16,01:00,Rodoviária do Plano Piloto,DF03,PTS,59.22,ug/m3,manual
+2017-12-22,01:00,Rodoviária do Plano Piloto,DF03,PTS,107.22,ug/m3,manual
+2017-12-28,01:00,Rodoviária do Plano Piloto,DF03,PTS,86.76,ug/m3,manual
+2017-01-04,01:00,Fercal I,DF01,PTS,75.42,ug/m3,manual
+2017-01-07,01:00,Fercal I,DF01,PTS,72.89,ug/m3,manual
+2017-01-10,01:00,Fercal I,DF01,PTS,139.22,ug/m3,manual
+2017-01-18,01:00,Fercal I,DF01,PTS,105.08,ug/m3,manual
+2017-01-24,01:00,Fercal I,DF01,PTS,126.51,ug/m3,manual
+2017-02-09,01:00,Fercal I,DF01,PTS,104.84,ug/m3,manual
+2017-02-15,01:00,Fercal I,DF01,PTS,108.73,ug/m3,manual
+2017-03-06,01:00,Fercal I,DF01,PTS,118.92,ug/m3,manual
+2017-03-10,01:00,Fercal I,DF01,PTS,325.9,ug/m3,manual
+2017-03-30,01:00,Fercal I,DF01,PTS,106.88,ug/m3,manual
+2017-04-05,01:00,Fercal I,DF01,PTS,109.5,ug/m3,manual
+2017-04-20,01:00,Fercal I,DF01,PTS,108.65,ug/m3,manual
+2017-04-28,01:00,Fercal I,DF01,PTS,154.24,ug/m3,manual
+2017-05-04,01:00,Fercal I,DF01,PTS,149.88,ug/m3,manual
+2017-05-10,01:00,Fercal I,DF01,PTS,168.21,ug/m3,manual
+2017-05-16,01:00,Fercal I,DF01,PTS,178.95,ug/m3,manual
+2017-05-22,01:00,Fercal I,DF01,PTS,206.43,ug/m3,manual
+2017-05-28,01:00,Fercal I,DF01,PTS,164.92,ug/m3,manual
+2017-06-03,01:00,Fercal I,DF01,PTS,148.56,ug/m3,manual
+2017-06-09,01:00,Fercal I,DF01,PTS,173.2,ug/m3,manual
+2017-06-21,01:00,Fercal I,DF01,PTS,130.95,ug/m3,manual
+2017-06-27,01:00,Fercal I,DF01,PTS,103.6,ug/m3,manual
+2017-07-09,01:00,Fercal I,DF01,PTS,136.68,ug/m3,manual
+2017-07-15,01:00,Fercal I,DF01,PTS,146.36,ug/m3,manual
+2017-07-21,01:00,Fercal I,DF01,PTS,123.85,ug/m3,manual
+2017-07-27,01:00,Fercal I,DF01,PTS,128.11,ug/m3,manual
+2017-08-02,01:00,Fercal I,DF01,PTS,208.76,ug/m3,manual
+2017-08-08,01:00,Fercal I,DF01,PTS,219.77,ug/m3,manual
+2017-08-14,01:00,Fercal I,DF01,PTS,268.51,ug/m3,manual
+2017-08-20,01:00,Fercal I,DF01,PTS,244.47,ug/m3,manual
+2017-08-26,01:00,Fercal I,DF01,PTS,168.57,ug/m3,manual
+2017-09-01,01:00,Fercal I,DF01,PTS,326.32,ug/m3,manual
+2017-09-07,01:00,Fercal I,DF01,PTS,220.19,ug/m3,manual
+2017-09-20,01:00,Fercal I,DF01,PTS,145.73,ug/m3,manual
+2017-09-27,01:00,Fercal I,DF01,PTS,165.75,ug/m3,manual
+2017-10-03,01:00,Fercal I,DF01,PTS,112.01,ug/m3,manual
+2017-10-15,01:00,Fercal I,DF01,PTS,218.22,ug/m3,manual
+2017-10-28,01:00,Fercal I,DF01,PTS,215.51,ug/m3,manual
+2017-11-03,01:00,Fercal I,DF01,PTS,158.29,ug/m3,manual
+2017-11-15,01:00,Fercal I,DF01,PTS,85.99,ug/m3,manual
+2017-11-21,01:00,Fercal I,DF01,PTS,192.91,ug/m3,manual
+2017-11-27,01:00,Fercal I,DF01,PTS,264.72,ug/m3,manual
+2017-12-09,01:00,Fercal I,DF01,PTS,162.26,ug/m3,manual
+2017-12-22,01:00,Fercal I,DF01,PTS,122.24,ug/m3,manual
+2017-12-28,01:00,Fercal I,DF01,PTS,132.41,ug/m3,manual
+2017-03-14,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,243.61,ug/m3,manual
+2017-03-30,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,254.46,ug/m3,manual
+2017-04-05,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,472.25,ug/m3,manual
+2017-04-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,503.31,ug/m3,manual
+2017-04-28,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,285.24,ug/m3,manual
+2017-05-04,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,516.67,ug/m3,manual
+2017-05-10,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,427.65,ug/m3,manual
+2017-05-16,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,461.07,ug/m3,manual
+2017-05-22,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,421.23,ug/m3,manual
+2017-06-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,400.6,ug/m3,manual
+2017-06-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,707.42,ug/m3,manual
+2017-06-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,347.49,ug/m3,manual
+2017-06-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,687.78,ug/m3,manual
+2017-07-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,249.33,ug/m3,manual
+2017-07-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,728.82,ug/m3,manual
+2017-07-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,333.55,ug/m3,manual
+2017-07-27,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,709.81,ug/m3,manual
+2017-08-02,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,780.27,ug/m3,manual
+2017-08-08,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,547.56,ug/m3,manual
+2017-08-14,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,791.47,ug/m3,manual
+2017-08-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,475.43,ug/m3,manual
+2017-08-26,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,478.65,ug/m3,manual
+2017-09-01,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,988.45,ug/m3,manual
+2017-09-07,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,576.11,ug/m3,manual
+2017-09-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,876.8,ug/m3,manual
+2017-09-27,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,551.95,ug/m3,manual
+2017-10-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,303.72,ug/m3,manual
+2017-10-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,569.59,ug/m3,manual
+2017-11-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,239.92,ug/m3,manual
+2017-11-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,600.97,ug/m3,manual
+2017-11-27,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,437.44,ug/m3,manual
+2017-12-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,259.3,ug/m3,manual
+2017-12-22,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,466.34,ug/m3,manual
+2017-12-28,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,463.82,ug/m3,manual
+2017-01-04,01:00,Setor Comercial Sul,DF05,PTS,53.2,ug/m3,manual
+2017-01-07,01:00,Setor Comercial Sul,DF05,PTS,41.68,ug/m3,manual
+2017-01-10,01:00,Setor Comercial Sul,DF05,PTS,51.62,ug/m3,manual
+2017-01-18,01:00,Setor Comercial Sul,DF05,PTS,39.02,ug/m3,manual
+2017-01-24,01:00,Setor Comercial Sul,DF05,PTS,48.28,ug/m3,manual
+2017-02-09,01:00,Setor Comercial Sul,DF05,PTS,33.44,ug/m3,manual
+2017-02-24,01:00,Setor Comercial Sul,DF05,PTS,36.32,ug/m3,manual
+2017-03-04,01:00,Setor Comercial Sul,DF05,PTS,38.08,ug/m3,manual
+2017-03-06,01:00,Setor Comercial Sul,DF05,PTS,65.61,ug/m3,manual
+2017-03-10,01:00,Setor Comercial Sul,DF05,PTS,74.48,ug/m3,manual
+2017-03-14,01:00,Setor Comercial Sul,DF05,PTS,56.48,ug/m3,manual
+2017-03-30,01:00,Setor Comercial Sul,DF05,PTS,44.48,ug/m3,manual
+2017-04-05,01:00,Setor Comercial Sul,DF05,PTS,46.62,ug/m3,manual
+2017-04-28,01:00,Setor Comercial Sul,DF05,PTS,49.38,ug/m3,manual
+2017-05-04,01:00,Setor Comercial Sul,DF05,PTS,49.4,ug/m3,manual
+2017-05-10,01:00,Setor Comercial Sul,DF05,PTS,71.38,ug/m3,manual
+2017-05-16,01:00,Setor Comercial Sul,DF05,PTS,75.17,ug/m3,manual
+2017-05-22,01:00,Setor Comercial Sul,DF05,PTS,36.84,ug/m3,manual
+2017-05-28,01:00,Setor Comercial Sul,DF05,PTS,40.29,ug/m3,manual
+2017-06-03,01:00,Setor Comercial Sul,DF05,PTS,66.57,ug/m3,manual
+2017-06-09,01:00,Setor Comercial Sul,DF05,PTS,102.68,ug/m3,manual
+2017-06-15,01:00,Setor Comercial Sul,DF05,PTS,64.53,ug/m3,manual
+2017-06-21,01:00,Setor Comercial Sul,DF05,PTS,84.87,ug/m3,manual
+2017-06-27,01:00,Setor Comercial Sul,DF05,PTS,69.54,ug/m3,manual
+2017-01-04,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-01-07,01:00,Rodoviária do Plano Piloto,DF03,FMC,6.38,ug/m3,manual
+2017-01-18,01:00,Rodoviária do Plano Piloto,DF03,FMC,34.16,ug/m3,manual
+2017-01-24,01:00,Rodoviária do Plano Piloto,DF03,FMC,37.8,ug/m3,manual
+2017-02-09,01:00,Rodoviária do Plano Piloto,DF03,FMC,21.86,ug/m3,manual
+2017-02-15,01:00,Rodoviária do Plano Piloto,DF03,FMC,13.89,ug/m3,manual
+2017-03-04,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-03-10,01:00,Rodoviária do Plano Piloto,DF03,FMC,2.28,ug/m3,manual
+2017-03-14,01:00,Rodoviária do Plano Piloto,DF03,FMC,21.86,ug/m3,manual
+2017-03-20,01:00,Rodoviária do Plano Piloto,DF03,FMC,11.39,ug/m3,manual
+2017-03-30,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-04-05,01:00,Rodoviária do Plano Piloto,DF03,FMC,22.32,ug/m3,manual
+2017-04-20,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.14,ug/m3,manual
+2017-04-28,01:00,Rodoviária do Plano Piloto,DF03,FMC,16.4,ug/m3,manual
+2017-05-04,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-05-10,01:00,Rodoviária do Plano Piloto,DF03,FMC,36,ug/m3,manual
+2017-05-16,01:00,Rodoviária do Plano Piloto,DF03,FMC,34.16,ug/m3,manual
+2017-05-22,01:00,Rodoviária do Plano Piloto,DF03,FMC,2.28,ug/m3,manual
+2017-05-28,01:00,Rodoviária do Plano Piloto,DF03,FMC,30.97,ug/m3,manual
+2017-06-03,01:00,Rodoviária do Plano Piloto,DF03,FMC,34.16,ug/m3,manual
+2017-06-09,01:00,Rodoviária do Plano Piloto,DF03,FMC,21.83,ug/m3,manual
+2017-06-15,01:00,Rodoviária do Plano Piloto,DF03,FMC,13.68,ug/m3,manual
+2017-06-21,01:00,Rodoviária do Plano Piloto,DF03,FMC,24.59,ug/m3,manual
+2017-06-27,01:00,Rodoviária do Plano Piloto,DF03,FMC,24.6,ug/m3,manual
+2017-07-03,01:00,Rodoviária do Plano Piloto,DF03,FMC,11.39,ug/m3,manual
+2017-08-02,01:00,Rodoviária do Plano Piloto,DF03,FMC,52.38,ug/m3,manual
+2017-08-08,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-08-14,01:00,Rodoviária do Plano Piloto,DF03,FMC,38.8,ug/m3,manual
+2017-09-01,01:00,Rodoviária do Plano Piloto,DF03,FMC,52.38,ug/m3,manual
+2017-09-07,01:00,Rodoviária do Plano Piloto,DF03,FMC,10.93,ug/m3,manual
+2017-09-20,01:00,Rodoviária do Plano Piloto,DF03,FMC,6.38,ug/m3,manual
+2017-09-27,01:00,Rodoviária do Plano Piloto,DF03,FMC,40.99,ug/m3,manual
+2017-10-03,01:00,Rodoviária do Plano Piloto,DF03,FMC,13.66,ug/m3,manual
+2017-10-09,01:00,Rodoviária do Plano Piloto,DF03,FMC,16.41,ug/m3,manual
+2017-10-15,01:00,Rodoviária do Plano Piloto,DF03,FMC,20.5,ug/m3,manual
+2017-10-28,01:00,Rodoviária do Plano Piloto,DF03,FMC,2.28,ug/m3,manual
+2017-11-03,01:00,Rodoviária do Plano Piloto,DF03,FMC,4.1,ug/m3,manual
+2017-11-09,01:00,Rodoviária do Plano Piloto,DF03,FMC,16.4,ug/m3,manual
+2017-11-15,01:00,Rodoviária do Plano Piloto,DF03,FMC,4.1,ug/m3,manual
+2017-11-21,01:00,Rodoviária do Plano Piloto,DF03,FMC,34.16,ug/m3,manual
+2017-11-27,01:00,Rodoviária do Plano Piloto,DF03,FMC,13.89,ug/m3,manual
+2017-12-09,01:00,Rodoviária do Plano Piloto,DF03,FMC,2.28,ug/m3,manual
+2017-12-16,01:00,Rodoviária do Plano Piloto,DF03,FMC,2.28,ug/m3,manual
+2017-12-22,01:00,Rodoviária do Plano Piloto,DF03,FMC,4.1,ug/m3,manual
+2017-12-28,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2017-03-14,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,22.3,ug/m3,manual
+2017-03-30,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,2.06,ug/m3,manual
+2017-04-05,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,5.15,ug/m3,manual
+2017-04-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,44.07,ug/m3,manual
+2017-04-28,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,17.3,ug/m3,manual
+2017-05-04,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,12.35,ug/m3,manual
+2017-05-10,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,22.24,ug/m3,manual
+2017-05-16,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,32.53,ug/m3,manual
+2017-05-22,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,34.18,ug/m3,manual
+2017-05-28,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,7.82,ug/m3,manual
+2017-06-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,10.3,ug/m3,manual
+2017-06-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,10.3,ug/m3,manual
+2017-06-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,12.35,ug/m3,manual
+2017-06-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,25.12,ug/m3,manual
+2017-07-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,14.83,ug/m3,manual
+2017-07-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,37.06,ug/m3,manual
+2017-07-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,25.12,ug/m3,manual
+2017-07-27,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,19.85,ug/m3,manual
+2017-08-02,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,5.41,ug/m3,manual
+2017-08-08,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,34.18,ug/m3,manual
+2017-08-14,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,25.12,ug/m3,manual
+2017-08-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,12.77,ug/m3,manual
+2017-08-26,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,25.53,ug/m3,manual
+2017-09-01,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,3.71,ug/m3,manual
+2017-09-07,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,15.45,ug/m3,manual
+2017-09-20,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,19.77,ug/m3,manual
+2017-10-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,10.3,ug/m3,manual
+2017-10-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,77.04,ug/m3,manual
+2017-11-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,30.85,ug/m3,manual
+2017-11-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,2.06,ug/m3,manual
+2017-11-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,34.18,ug/m3,manual
+2017-11-21,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,7.82,ug/m3,manual
+2017-11-27,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,7.41,ug/m3,manual
+2017-12-09,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,1.39,ug/m3,manual
+2017-12-22,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,10.3,ug/m3,manual
+2017-12-28,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,17.35,ug/m3,manual
+2017-01-07,01:00,Setor Comercial Sul,DF05,FMC,3.18,ug/m3,manual
+2017-01-10,01:00,Setor Comercial Sul,DF05,FMC,4.94,ug/m3,manual
+2017-01-18,01:00,Setor Comercial Sul,DF05,FMC,6.71,ug/m3,manual
+2017-01-24,01:00,Setor Comercial Sul,DF05,FMC,14.18,ug/m3,manual
+2017-02-09,01:00,Setor Comercial Sul,DF05,FMC,3.18,ug/m3,manual
+2017-02-15,01:00,Setor Comercial Sul,DF05,FMC,2.47,ug/m3,manual
+2017-02-24,01:00,Setor Comercial Sul,DF05,FMC,5.34,ug/m3,manual
+2017-03-04,01:00,Setor Comercial Sul,DF05,FMC,5.34,ug/m3,manual
+2017-03-06,01:00,Setor Comercial Sul,DF05,FMC,1.91,ug/m3,manual
+2017-03-10,01:00,Setor Comercial Sul,DF05,FMC,1.91,ug/m3,manual
+2017-03-14,01:00,Setor Comercial Sul,DF05,FMC,1.91,ug/m3,manual
+2017-03-30,01:00,Setor Comercial Sul,DF05,FMC,7.25,ug/m3,manual
+2017-04-05,01:00,Setor Comercial Sul,DF05,FMC,1.72,ug/m3,manual
+2017-04-20,01:00,Setor Comercial Sul,DF05,FMC,16.06,ug/m3,manual
+2017-04-28,01:00,Setor Comercial Sul,DF05,FMC,3.43,ug/m3,manual
+2017-05-04,01:00,Setor Comercial Sul,DF05,FMC,3.43,ug/m3,manual
+2017-05-10,01:00,Setor Comercial Sul,DF05,FMC,11.45,ug/m3,manual
+2017-05-16,01:00,Setor Comercial Sul,DF05,FMC,17.17,ug/m3,manual
+2017-05-22,01:00,Setor Comercial Sul,DF05,FMC,9.54,ug/m3,manual
+2017-05-28,01:00,Setor Comercial Sul,DF05,FMC,3.43,ug/m3,manual
+2017-06-03,01:00,Setor Comercial Sul,DF05,FMC,1.91,ug/m3,manual
+2017-06-09,01:00,Setor Comercial Sul,DF05,FMC,1.91,ug/m3,manual
+2017-06-15,01:00,Setor Comercial Sul,DF05,FMC,9.54,ug/m3,manual
+2017-06-21,01:00,Setor Comercial Sul,DF05,FMC,23.28,ug/m3,manual
+2017-11-15,01:00,Jardim Zoológico de Brasília,DF04,FMC,7.25,ug/m3,manual
+2017-11-21,01:00,Jardim Zoológico de Brasília,DF04,FMC,23.28,ug/m3,manual
+2017-11-27,01:00,Jardim Zoológico de Brasília,DF04,FMC,3.63,ug/m3,manual
+2017-12-09,01:00,Jardim Zoológico de Brasília,DF04,FMC,1.91,ug/m3,manual
+2017-12-16,01:00,Jardim Zoológico de Brasília,DF04,FMC,3.43,ug/m3,manual
+2017-12-22,01:00,Jardim Zoológico de Brasília,DF04,FMC,1.91,ug/m3,manual
+2017-12-28,01:00,Jardim Zoológico de Brasília,DF04,FMC,11.45,ug/m3,manual
+2017-03-10,01:00,Fercal I,DF01,MP10,44.24,ug/m3,manual
+2017-03-14,01:00,Fercal I,DF01,MP10,37.9,ug/m3,manual
+2017-03-20,01:00,Fercal I,DF01,MP10,67.78,ug/m3,manual
+2017-03-30,01:00,Fercal I,DF01,MP10,36.88,ug/m3,manual
+2017-04-05,01:00,Fercal I,DF01,MP10,33.14,ug/m3,manual
+2017-04-20,01:00,Fercal I,DF01,MP10,41.6,ug/m3,manual
+2017-04-28,01:00,Fercal I,DF01,MP10,59.03,ug/m3,manual
+2017-05-04,01:00,Fercal I,DF01,MP10,63.09,ug/m3,manual
+2017-05-16,01:00,Fercal I,DF01,MP10,88.18,ug/m3,manual
+2017-05-22,01:00,Fercal I,DF01,MP10,63.11,ug/m3,manual
+2017-05-28,01:00,Fercal I,DF01,MP10,90.82,ug/m3,manual
+2017-06-03,01:00,Fercal I,DF01,MP10,18.16,ug/m3,manual
+2017-06-09,01:00,Fercal I,DF01,MP10,64.12,ug/m3,manual
+2017-06-15,01:00,Fercal I,DF01,MP10,40.84,ug/m3,manual
+2017-06-21,01:00,Fercal I,DF01,MP10,49.5,ug/m3,manual
+2017-07-09,01:00,Fercal I,DF01,MP10,52.88,ug/m3,manual
+2017-07-15,01:00,Fercal I,DF01,MP10,80.19,ug/m3,manual
+2017-07-21,01:00,Fercal I,DF01,MP10,133.4,ug/m3,manual
+2017-07-27,01:00,Fercal I,DF01,MP10,49.08,ug/m3,manual
+2017-08-02,01:00,Fercal I,DF01,MP10,113.61,ug/m3,manual
+2017-08-08,01:00,Fercal I,DF01,MP10,52.24,ug/m3,manual
+2017-08-14,01:00,Fercal I,DF01,MP10,122.74,ug/m3,manual
+2017-08-20,01:00,Fercal I,DF01,MP10,115.51,ug/m3,manual
+2017-08-26,01:00,Fercal I,DF01,MP10,81.79,ug/m3,manual
+2017-09-01,01:00,Fercal I,DF01,MP10,175.57,ug/m3,manual
+2017-09-07,01:00,Fercal I,DF01,MP10,98.46,ug/m3,manual
+2017-09-20,01:00,Fercal I,DF01,MP10,90.76,ug/m3,manual
+2017-09-27,01:00,Fercal I,DF01,MP10,102.52,ug/m3,manual
+2017-10-03,01:00,Fercal I,DF01,MP10,50.08,ug/m3,manual
+2017-10-09,01:00,Fercal I,DF01,MP10,120.47,ug/m3,manual
+2017-10-15,01:00,Fercal I,DF01,MP10,104.89,ug/m3,manual
+2017-10-28,01:00,Fercal I,DF01,MP10,83.69,ug/m3,manual
+2017-11-03,01:00,Fercal I,DF01,MP10,40.8,ug/m3,manual
+2017-11-15,01:00,Fercal I,DF01,MP10,30.55,ug/m3,manual
+2017-11-21,01:00,Fercal I,DF01,MP10,72.08,ug/m3,manual
+2017-11-27,01:00,Fercal I,DF01,MP10,75.27,ug/m3,manual
+2017-12-09,01:00,Fercal I,DF01,MP10,52.08,ug/m3,manual
+2017-12-16,01:00,Fercal I,DF01,MP10,30.24,ug/m3,manual
+2017-12-22,01:00,Fercal I,DF01,MP10,50.08,ug/m3,manual
+2017-12-28,01:00,Fercal I,DF01,MP10,61.03,ug/m3,manual
+2017-01-07,01:00,Setor Comercial Sul,DF05,MP10,9.33,ug/m3,manual
+2017-01-10,01:00,Setor Comercial Sul,DF05,MP10,12.21,ug/m3,manual
+2017-01-18,01:00,Setor Comercial Sul,DF05,MP10,9.89,ug/m3,manual
+2017-01-24,01:00,Setor Comercial Sul,DF05,MP10,4.35,ug/m3,manual
+2017-02-09,01:00,Setor Comercial Sul,DF05,MP10,3.72,ug/m3,manual
+2017-02-15,01:00,Setor Comercial Sul,DF05,MP10,13.16,ug/m3,manual
+2017-03-14,01:00,Setor Comercial Sul,DF05,MP10,13.77,ug/m3,manual
+2017-03-20,01:00,Setor Comercial Sul,DF05,MP10,20.47,ug/m3,manual
+2017-03-30,01:00,Setor Comercial Sul,DF05,MP10,6.22,ug/m3,manual
+2017-04-05,01:00,Setor Comercial Sul,DF05,MP10,13.35,ug/m3,manual
+2017-04-20,01:00,Setor Comercial Sul,DF05,MP10,13.53,ug/m3,manual
+2017-04-28,01:00,Setor Comercial Sul,DF05,MP10,12.78,ug/m3,manual
+2017-05-04,01:00,Setor Comercial Sul,DF05,MP10,12.91,ug/m3,manual
+2017-05-10,01:00,Setor Comercial Sul,DF05,MP10,34.01,ug/m3,manual
+2017-05-16,01:00,Setor Comercial Sul,DF05,MP10,20.29,ug/m3,manual
+2017-05-22,01:00,Setor Comercial Sul,DF05,MP10,9.5,ug/m3,manual
+2017-05-28,01:00,Setor Comercial Sul,DF05,MP10,50.99,ug/m3,manual
+2017-06-09,01:00,Setor Comercial Sul,DF05,MP10,25.89,ug/m3,manual
+2017-06-15,01:00,Setor Comercial Sul,DF05,MP10,15.46,ug/m3,manual
+2017-06-21,01:00,Setor Comercial Sul,DF05,MP10,18.55,ug/m3,manual
+2017-06-27,01:00,Setor Comercial Sul,DF05,MP10,15.35,ug/m3,manual
+2017-11-15,01:00,Jardim Zoológico de Brasília,DF04,MP10,8.41,ug/m3,manual
+2017-11-21,01:00,Jardim Zoológico de Brasília,DF04,MP10,14.85,ug/m3,manual
+2017-11-27,01:00,Jardim Zoológico de Brasília,DF04,MP10,14.65,ug/m3,manual
+2017-12-09,01:00,Jardim Zoológico de Brasília,DF04,MP10,8.71,ug/m3,manual
+2017-12-16,01:00,Jardim Zoológico de Brasília,DF04,MP10,4.93,ug/m3,manual
+2017-12-22,01:00,Jardim Zoológico de Brasília,DF04,MP10,12.05,ug/m3,manual
+2017-12-28,01:00,Jardim Zoológico de Brasília,DF04,MP10,15.91,ug/m3,manual

@@ -1,0 +1,46 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2021-02-10,01:00,IFB - Samambaia,DF10,PTS,34.04,ug/m3,manual
+2021-02-16,01:00,IFB - Samambaia,DF10,PTS,14.62,ug/m3,manual
+2021-02-22,01:00,IFB - Samambaia,DF10,PTS,16.51,ug/m3,manual
+2021-02-28,01:00,IFB - Samambaia,DF10,PTS,8.97,ug/m3,manual
+2021-03-06,01:00,IFB - Samambaia,DF10,PTS,23.72,ug/m3,manual
+2021-03-12,01:00,IFB - Samambaia,DF10,PTS,35.29,ug/m3,manual
+2021-03-18,01:00,IFB - Samambaia,DF10,PTS,23.14,ug/m3,manual
+2021-03-24,01:00,IFB - Samambaia,DF10,PTS,27.04,ug/m3,manual
+2021-04-05,01:00,IFB - Samambaia,DF10,PTS,24.61,ug/m3,manual
+2021-04-17,01:00,IFB - Samambaia,DF10,PTS,51.48,ug/m3,manual
+2021-04-23,01:00,IFB - Samambaia,DF10,PTS,59.41,ug/m3,manual
+2021-04-29,01:00,IFB - Samambaia,DF10,PTS,29.97,ug/m3,manual
+2021-05-05,01:00,IFB - Samambaia,DF10,PTS,41.7,ug/m3,manual
+2021-05-11,01:00,IFB - Samambaia,DF10,PTS,67.52,ug/m3,manual
+2021-05-17,01:00,IFB - Samambaia,DF10,PTS,59.33,ug/m3,manual
+2021-05-23,01:00,IFB - Samambaia,DF10,PTS,57.07,ug/m3,manual
+2021-06-16,01:00,IFB - Samambaia,DF10,PTS,53.16,ug/m3,manual
+2021-06-22,01:00,IFB - Samambaia,DF10,PTS,69.51,ug/m3,manual
+2021-06-28,01:00,IFB - Samambaia,DF10,PTS,49.22,ug/m3,manual
+2021-07-04,01:00,IFB - Samambaia,DF10,PTS,76.37,ug/m3,manual
+2021-07-10,01:00,IFB - Samambaia,DF10,PTS,69.47,ug/m3,manual
+2021-07-22,01:00,IFB - Samambaia,DF10,PTS,89.41,ug/m3,manual
+2021-07-28,01:00,IFB - Samambaia,DF10,PTS,86.86,ug/m3,manual
+2021-08-03,01:00,IFB - Samambaia,DF10,PTS,83.2,ug/m3,manual
+2021-08-15,01:00,IFB - Samambaia,DF10,PTS,71.82,ug/m3,manual
+2021-08-21,01:00,IFB - Samambaia,DF10,PTS,56.2,ug/m3,manual
+2021-08-27,01:00,IFB - Samambaia,DF10,PTS,99.83,ug/m3,manual
+2021-10-08,01:00,IFB - Samambaia,DF10,PTS,29.11,ug/m3,manual
+2021-10-14,01:00,IFB - Samambaia,DF10,PTS,40.62,ug/m3,manual
+2021-10-20,01:00,IFB - Samambaia,DF10,PTS,31.6,ug/m3,manual
+2021-10-26,01:00,IFB - Samambaia,DF10,PTS,29.9,ug/m3,manual
+2021-11-01,01:00,IFB - Samambaia,DF10,PTS,27.11,ug/m3,manual
+2021-11-07,01:00,IFB - Samambaia,DF10,PTS,25.18,ug/m3,manual
+2021-11-13,01:00,IFB - Samambaia,DF10,PTS,18.87,ug/m3,manual
+2021-11-19,01:00,IFB - Samambaia,DF10,PTS,28.33,ug/m3,manual
+2021-11-25,01:00,IFB - Samambaia,DF10,PTS,41.32,ug/m3,manual
+2021-11-23,01:00,Fercal I,DF01,PTS,154.78,ug/m3,manual
+2021-11-23,01:00,Rodoviária do Plano Piloto,DF03,MP10,26.27,ug/m3,manual
+2021-12-01,01:00,Rodoviária do Plano Piloto,DF03,MP10,30.45,ug/m3,manual
+2021-12-01,01:00,Fercal I,DF01,PTS,96.06,ug/m3,manual
+2021-12-01,01:00,IFB - Samambaia,DF10,PTS,20.7,ug/m3,manual
+2021-12-07,01:00,IFB - Samambaia,DF10,PTS,27.41,ug/m3,manual
+2021-12-13,01:00,IFB - Samambaia,DF10,PTS,11.39,ug/m3,manual
+2021-12-19,01:00,IFB - Samambaia,DF10,PTS,16.91,ug/m3,manual
+2021-12-25,01:00,IFB - Samambaia,DF10,PTS,12.41,ug/m3,manual

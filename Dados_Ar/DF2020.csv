@@ -1,0 +1,55 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2020-01-09,01:00,Rodoviária do Plano Piloto,DF03,MP10,41.45,ug/m3,manual
+2020-01-15,01:00,Rodoviária do Plano Piloto,DF03,MP10,54.98,ug/m3,manual
+2020-01-21,01:00,Rodoviária do Plano Piloto,DF03,MP10,31.49,ug/m3,manual
+2020-01-27,01:00,Rodoviária do Plano Piloto,DF03,MP10,38.55,ug/m3,manual
+2020-01-03,01:00,Jardim Zoológico de Brasília,DF04,MP10,4.13,ug/m3,manual
+2020-01-09,01:00,Jardim Zoológico de Brasília,DF04,MP10,10.11,ug/m3,manual
+2020-01-15,01:00,Jardim Zoológico de Brasília,DF04,MP10,14.3,ug/m3,manual
+2020-01-21,01:00,Jardim Zoológico de Brasília,DF04,MP10,6.13,ug/m3,manual
+2020-01-27,01:00,Jardim Zoológico de Brasília,DF04,MP10,6.26,ug/m3,manual
+2020-01-03,01:00,Fercal I,DF01,MP10,19.83,ug/m3,manual
+2020-01-09,01:00,Fercal I,DF01,MP10,19.08,ug/m3,manual
+2020-01-21,01:00,Fercal I,DF01,MP10,26.52,ug/m3,manual
+2020-01-27,01:00,Fercal I,DF01,MP10,11.39,ug/m3,manual
+2020-01-15,01:00,Fercal I,DF01,PTS,218.22,ug/m3,manual
+2020-01-21,01:00,Fercal I,DF01,PTS,183.85,ug/m3,manual
+2020-01-27,01:00,Fercal I,DF01,PTS,83.56,ug/m3,manual
+2020-01-03,01:00,Fercal - Escola,DF11,PTS,35.43,ug/m3,manual
+2020-01-09,01:00,Fercal - Escola,DF11,PTS,46.94,ug/m3,manual
+2020-01-15,01:00,Fercal - Escola,DF11,PTS,51.33,ug/m3,manual
+2020-01-21,01:00,Fercal - Escola,DF11,PTS,92.01,ug/m3,manual
+2020-01-27,01:00,Fercal - Escola,DF11,PTS,40.77,ug/m3,manual
+2020-01-03,01:00,IFB - Samambaia,DF10,PTS,10.54,ug/m3,manual
+2020-01-09,01:00,IFB - Samambaia,DF10,PTS,20.98,ug/m3,manual
+2020-01-15,01:00,IFB - Samambaia,DF10,PTS,49.91,ug/m3,manual
+2020-01-21,01:00,IFB - Samambaia,DF10,PTS,18.18,ug/m3,manual
+2020-01-27,01:00,IFB - Samambaia,DF10,PTS,12.85,ug/m3,manual
+2020-02-02,01:00,Rodoviária do Plano Piloto,DF03,MP10,22.26,ug/m3,manual
+2020-02-26,01:00,Rodoviária do Plano Piloto,DF03,MP10,45.83,ug/m3,manual
+2020-02-02,01:00,Jardim Zoológico de Brasília,DF04,MP10,7.53,ug/m3,manual
+2020-02-26,01:00,Jardim Zoológico de Brasília,DF04,MP10,12.57,ug/m3,manual
+2020-02-02,01:00,Fercal I,DF01,MP10,26.26,ug/m3,manual
+2020-02-02,01:00,Fercal I,DF01,PTS,145.31,ug/m3,manual
+2020-02-26,01:00,Fercal I,DF01,PTS,181.83,ug/m3,manual
+2020-02-02,01:00,Fercal - Escola,DF11,PTS,67.43,ug/m3,manual
+2020-02-26,01:00,Fercal - Escola,DF11,PTS,34.14,ug/m3,manual
+2020-02-14,01:00,IFB - Samambaia,DF10,PTS,28.35,ug/m3,manual
+2020-03-03,01:00,Rodoviária do Plano Piloto,DF03,MP10,33.02,ug/m3,manual
+2020-03-09,01:00,Rodoviária do Plano Piloto,DF03,MP10,55.43,ug/m3,manual
+2020-03-15,01:00,Rodoviária do Plano Piloto,DF03,MP10,17.12,ug/m3,manual
+2020-03-03,01:00,Jardim Zoológico de Brasília,DF04,MP10,7.8,ug/m3,manual
+2020-03-15,01:00,Jardim Zoológico de Brasília,DF04,MP10,4.6,ug/m3,manual
+2020-03-09,01:00,Fercal I,DF01,MP10,16.83,ug/m3,manual
+2020-03-15,01:00,Fercal I,DF01,MP10,20.2,ug/m3,manual
+2020-03-03,01:00,Fercal I,DF01,PTS,187.78,ug/m3,manual
+2020-03-09,01:00,Fercal I,DF01,PTS,113.88,ug/m3,manual
+2020-03-15,01:00,Fercal I,DF01,PTS,107.37,ug/m3,manual
+2020-03-03,01:00,Fercal - Escola,DF11,PTS,24.43,ug/m3,manual
+2020-03-09,01:00,Fercal - Escola,DF11,PTS,29.9,ug/m3,manual
+2020-03-15,01:00,Fercal - Escola,DF11,PTS,19.01,ug/m3,manual
+2020-11-06,01:00,IFB - Samambaia,DF10,PTS,29.96,ug/m3,manual
+2020-11-24,01:00,IFB - Samambaia,DF10,PTS,16.36,ug/m3,manual
+2020-12-06,01:00,IFB - Samambaia,DF10,PTS,17.86,ug/m3,manual
+2020-12-12,01:00,IFB - Samambaia,DF10,PTS,21.39,ug/m3,manual
+2020-12-18,01:00,IFB - Samambaia,DF10,PTS,32.77,ug/m3,manual

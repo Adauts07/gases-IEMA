@@ -1,0 +1,165 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2018-01-03,01:00,Rodoviária do Plano Piloto,DF03,PTS,178.19,ug/m3,manual
+2018-01-15,01:00,Rodoviária do Plano Piloto,DF03,PTS,205.7,ug/m3,manual
+2018-01-25,01:00,Rodoviária do Plano Piloto,DF03,PTS,85.53,ug/m3,manual
+2018-01-03,01:00,Rodoviária do Plano Piloto,DF03,FMC,9.56,ug/m3,manual
+2018-01-15,01:00,Rodoviária do Plano Piloto,DF03,FMC,9.57,ug/m3,manual
+2018-01-25,01:00,Rodoviária do Plano Piloto,DF03,FMC,19.13,ug/m3,manual
+2018-01-03,01:00,Jardim Zoológico de Brasília,DF04,MP10,10.37,ug/m3,manual
+2018-01-15,01:00,Jardim Zoológico de Brasília,DF04,MP10,14.07,ug/m3,manual
+2018-01-25,01:00,Jardim Zoológico de Brasília,DF04,MP10,12.51,ug/m3,manual
+2018-01-03,01:00,Jardim Zoológico de Brasília,DF04,FMC,2.67,ug/m3,manual
+2018-01-15,01:00,Jardim Zoológico de Brasília,DF04,FMC,3.63,ug/m3,manual
+2018-01-25,01:00,Jardim Zoológico de Brasília,DF04,FMC,3.43,ug/m3,manual
+2018-01-03,01:00,Fercal I,DF01,PTS,150,ug/m3,manual
+2018-01-15,01:00,Fercal I,DF01,PTS,149.88,ug/m3,manual
+2018-01-03,01:00,Fercal I,DF01,MP10,69.93,ug/m3,manual
+2018-01-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,363.99,ug/m3,manual
+2018-01-03,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,8.64,ug/m3,manual
+2018-01-15,01:00,CIPLAN (antiga estação Queima Lençol),DF02,FMC,4.32,ug/m3,manual
+2018-02-02,01:00,Rodoviária do Plano Piloto,DF03,PTS,64.89,ug/m3,manual
+2018-02-10,01:00,Rodoviária do Plano Piloto,DF03,PTS,109.68,ug/m3,manual
+2018-02-18,01:00,Rodoviária do Plano Piloto,DF03,PTS,49.98,ug/m3,manual
+2018-02-26,01:00,Rodoviária do Plano Piloto,DF03,PTS,99.82,ug/m3,manual
+2018-02-02,01:00,Jardim Zoológico de Brasília,DF04,MP10,6.85,ug/m3,manual
+2018-02-10,01:00,Jardim Zoológico de Brasília,DF04,MP10,11.7,ug/m3,manual
+2018-02-18,01:00,Jardim Zoológico de Brasília,DF04,MP10,11.03,ug/m3,manual
+2018-02-26,01:00,Jardim Zoológico de Brasília,DF04,MP10,6.02,ug/m3,manual
+2018-02-10,01:00,Fercal I,DF01,PTS,177.43,ug/m3,manual
+2018-02-18,01:00,Fercal I,DF01,PTS,66.68,ug/m3,manual
+2018-02-26,01:00,Fercal I,DF01,PTS,157.36,ug/m3,manual
+2018-02-26,01:00,Fercal I,DF01,MP10,48.44,ug/m3,manual
+2018-02-10,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,504.82,ug/m3,manual
+2018-02-26,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,145.61,ug/m3,manual
+2018-03-06,01:00,Rodoviária do Plano Piloto,DF03,PTS,127.78,ug/m3,manual
+2018-03-14,01:00,Rodoviária do Plano Piloto,DF03,PTS,124.35,ug/m3,manual
+2018-03-19,01:00,Rodoviária do Plano Piloto,DF03,PTS,104.18,ug/m3,manual
+2018-03-28,01:00,Rodoviária do Plano Piloto,DF03,PTS,124.65,ug/m3,manual
+2018-03-06,01:00,Jardim Zoológico de Brasília,DF04,MP10,7.54,ug/m3,manual
+2018-03-14,01:00,Jardim Zoológico de Brasília,DF04,MP10,12.71,ug/m3,manual
+2018-03-19,01:00,Jardim Zoológico de Brasília,DF04,MP10,13.08,ug/m3,manual
+2018-03-25,01:00,Jardim Zoológico de Brasília,DF04,MP10,11.07,ug/m3,manual
+2018-03-28,01:00,Jardim Zoológico de Brasília,DF04,MP10,12.14,ug/m3,manual
+2018-03-06,01:00,Fercal I,DF01,PTS,130.93,ug/m3,manual
+2018-03-14,01:00,Fercal I,DF01,PTS,147.28,ug/m3,manual
+2018-03-19,01:00,Fercal I,DF01,PTS,98.43,ug/m3,manual
+2018-03-25,01:00,Fercal I,DF01,PTS,58.56,ug/m3,manual
+2018-03-28,01:00,Fercal I,DF01,PTS,189.32,ug/m3,manual
+2018-03-06,01:00,Fercal I,DF01,MP10,43.8,ug/m3,manual
+2018-03-14,01:00,Fercal I,DF01,MP10,46.19,ug/m3,manual
+2018-03-19,01:00,Fercal I,DF01,MP10,39.16,ug/m3,manual
+2018-03-25,01:00,Fercal I,DF01,MP10,19.1,ug/m3,manual
+2018-03-28,01:00,Fercal I,DF01,MP10,71.77,ug/m3,manual
+2018-03-06,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,371.08,ug/m3,manual
+2018-03-14,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,268.97,ug/m3,manual
+2018-03-19,01:00,CIPLAN (antiga estação Queima Lençol),DF02,PTS,317.61,ug/m3,manual
+2018-04-03,01:00,Jardim Zoológico de Brasília,DF04,MP10,14.38,ug/m3,manual
+2018-04-12,01:00,Jardim Zoológico de Brasília,DF04,MP10,0.4,ug/m3,manual
+2018-04-21,01:00,Jardim Zoológico de Brasília,DF04,MP10,18.29,ug/m3,manual
+2018-04-27,01:00,Jardim Zoológico de Brasília,DF04,MP10,7.61,ug/m3,manual
+2018-04-03,01:00,Fercal I,DF01,PTS,184.03,ug/m3,manual
+2018-04-03,01:00,Fercal I,DF01,MP10,59.16,ug/m3,manual
+2018-04-27,01:00,Fercal I,DF01,MP10,76.89,ug/m3,manual
+2018-05-05,01:00,Jardim Zoológico de Brasília,DF04,MP10,10.45,ug/m3,manual
+2018-05-05,01:00,Fercal I,DF01,PTS,242.66,ug/m3,manual
+2018-05-17,01:00,Fercal I,DF01,PTS,182.31,ug/m3,manual
+2018-05-05,01:00,Fercal I,DF01,MP10,53.51,ug/m3,manual
+2018-05-11,01:00,Fercal I,DF01,MP10,49.1,ug/m3,manual
+2018-05-17,01:00,Fercal I,DF01,MP10,65.99,ug/m3,manual
+2018-05-23,01:00,Fercal I,DF01,MP10,56.13,ug/m3,manual
+2018-06-09,01:00,Rodoviária do Plano Piloto,DF03,MP10,124.04,ug/m3,manual
+2018-06-14,01:00,Rodoviária do Plano Piloto,DF03,MP10,63.85,ug/m3,manual
+2018-06-27,01:00,Rodoviária do Plano Piloto,DF03,MP10,97.48,ug/m3,manual
+2018-06-09,01:00,Jardim Zoológico de Brasília,DF04,MP10,36.06,ug/m3,manual
+2018-06-09,01:00,Fercal I,DF01,MP10,63.9,ug/m3,manual
+2018-06-14,01:00,Fercal I,DF01,MP10,107.07,ug/m3,manual
+2018-06-21,01:00,Fercal I,DF01,MP10,73.4,ug/m3,manual
+2018-06-09,01:00,Fercal I,DF01,PTS,101.79,ug/m3,manual
+2018-06-27,01:00,Fercal I,DF01,PTS,165.29,ug/m3,manual
+2018-07-12,01:00,Rodoviária do Plano Piloto,DF03,MP10,36.95,ug/m3,manual
+2018-07-24,01:00,Rodoviária do Plano Piloto,DF03,MP10,45.88,ug/m3,manual
+2018-07-12,01:00,Jardim Zoológico de Brasília,DF04,MP10,31.1,ug/m3,manual
+2018-07-24,01:00,Jardim Zoológico de Brasília,DF04,MP10,34.64,ug/m3,manual
+2018-07-06,01:00,Fercal I,DF01,MP10,109.18,ug/m3,manual
+2018-07-12,01:00,Fercal I,DF01,MP10,109.23,ug/m3,manual
+2018-07-22,01:00,Fercal I,DF01,MP10,65.88,ug/m3,manual
+2018-07-27,01:00,Fercal I,DF01,MP10,75.83,ug/m3,manual
+2018-07-06,01:00,Fercal I,DF01,PTS,314.7,ug/m3,manual
+2018-07-12,01:00,Fercal I,DF01,PTS,213.51,ug/m3,manual
+2018-08-05,01:00,Rodoviária do Plano Piloto,DF03,MP10,68.78,ug/m3,manual
+2018-05-16,01:00,Rodoviária do Plano Piloto,DF03,MP10,49.56,ug/m3,manual
+2018-08-25,01:00,Rodoviária do Plano Piloto,DF03,MP10,51.05,ug/m3,manual
+2018-08-31,01:00,Rodoviária do Plano Piloto,DF03,MP10,92.6,ug/m3,manual
+2018-08-05,01:00,Jardim Zoológico de Brasília,DF04,MP10,42.09,ug/m3,manual
+2018-05-16,01:00,Jardim Zoológico de Brasília,DF04,MP10,19.02,ug/m3,manual
+2018-08-25,01:00,Jardim Zoológico de Brasília,DF04,MP10,34.27,ug/m3,manual
+2018-08-31,01:00,Jardim Zoológico de Brasília,DF04,MP10,24.1,ug/m3,manual
+2018-08-05,01:00,Fercal I,DF01,MP10,37.99,ug/m3,manual
+2018-08-05,01:00,Fercal I,DF01,PTS,198.98,ug/m3,manual
+2018-05-16,01:00,Fercal I,DF01,PTS,216.9,ug/m3,manual
+2018-08-25,01:00,Fercal I,DF01,PTS,196.4,ug/m3,manual
+2018-08-28,01:00,Fercal I,DF01,PTS,91.81,ug/m3,manual
+2018-08-05,01:00,Fercal - Escola,DF11,PTS,124.99,ug/m3,manual
+2018-05-16,01:00,Fercal - Escola,DF11,PTS,69.02,ug/m3,manual
+2018-08-25,01:00,Fercal - Escola,DF11,PTS,145.7,ug/m3,manual
+2018-08-28,01:00,Fercal - Escola,DF11,PTS,175.52,ug/m3,manual
+2018-09-06,01:00,Rodoviária do Plano Piloto,DF03,MP10,84.14,ug/m3,manual
+2018-09-14,01:00,Rodoviária do Plano Piloto,DF03,MP10,62.04,ug/m3,manual
+2018-09-20,01:00,Rodoviária do Plano Piloto,DF03,MP10,95.04,ug/m3,manual
+2018-09-26,01:00,Rodoviária do Plano Piloto,DF03,MP10,248.72,ug/m3,manual
+2018-09-06,01:00,Jardim Zoológico de Brasília,DF04,MP10,40.61,ug/m3,manual
+2018-09-14,01:00,Jardim Zoológico de Brasília,DF04,MP10,35.62,ug/m3,manual
+2018-09-28,01:00,Jardim Zoológico de Brasília,DF04,MP10,37.23,ug/m3,manual
+2018-09-06,01:00,Fercal - Escola,DF11,PTS,131.07,ug/m3,manual
+2018-10-04,01:00,Rodoviária do Plano Piloto,DF03,MP10,62.41,ug/m3,manual
+2018-10-09,01:00,Rodoviária do Plano Piloto,DF03,MP10,31.31,ug/m3,manual
+2018-10-15,01:00,Rodoviária do Plano Piloto,DF03,MP10,50.63,ug/m3,manual
+2018-10-21,01:00,Rodoviária do Plano Piloto,DF03,MP10,12.27,ug/m3,manual
+2018-10-27,01:00,Rodoviária do Plano Piloto,DF03,MP10,62.67,ug/m3,manual
+2018-10-04,01:00,Jardim Zoológico de Brasília,DF04,MP10,20.52,ug/m3,manual
+2018-10-09,01:00,Jardim Zoológico de Brasília,DF04,MP10,27.6,ug/m3,manual
+2018-10-15,01:00,Jardim Zoológico de Brasília,DF04,MP10,25.71,ug/m3,manual
+2018-10-21,01:00,Jardim Zoológico de Brasília,DF04,MP10,6.24,ug/m3,manual
+2018-10-09,01:00,Fercal I,DF01,MP10,74.84,ug/m3,manual
+2018-10-15,01:00,Fercal I,DF01,MP10,42.79,ug/m3,manual
+2018-10-21,01:00,Fercal I,DF01,MP10,18.57,ug/m3,manual
+2018-10-27,01:00,Fercal I,DF01,MP10,56.65,ug/m3,manual
+2018-10-15,01:00,Fercal I,DF01,PTS,258.78,ug/m3,manual
+2018-10-21,01:00,Fercal I,DF01,PTS,50.02,ug/m3,manual
+2018-10-27,01:00,Fercal I,DF01,PTS,187.05,ug/m3,manual
+2018-10-09,01:00,Fercal - Escola,DF11,PTS,173.8,ug/m3,manual
+2018-10-15,01:00,Fercal - Escola,DF11,PTS,50,ug/m3,manual
+2018-10-21,01:00,Fercal - Escola,DF11,PTS,14.24,ug/m3,manual
+2018-10-27,01:00,Fercal - Escola,DF11,PTS,67.81,ug/m3,manual
+2018-11-02,01:00,Rodoviária do Plano Piloto,DF03,MP10,19.84,ug/m3,manual
+2018-11-08,01:00,Rodoviária do Plano Piloto,DF03,MP10,52.56,ug/m3,manual
+2018-11-14,01:00,Rodoviária do Plano Piloto,DF03,MP10,65.28,ug/m3,manual
+2018-11-20,01:00,Rodoviária do Plano Piloto,DF03,MP10,62.34,ug/m3,manual
+2018-11-27,01:00,Rodoviária do Plano Piloto,DF03,MP10,41.78,ug/m3,manual
+2018-11-02,01:00,Jardim Zoológico de Brasília,DF04,MP10,35.83,ug/m3,manual
+2018-11-08,01:00,Jardim Zoológico de Brasília,DF04,MP10,22.06,ug/m3,manual
+2018-11-14,01:00,Jardim Zoológico de Brasília,DF04,MP10,32.02,ug/m3,manual
+2018-11-20,01:00,Jardim Zoológico de Brasília,DF04,MP10,28.96,ug/m3,manual
+2018-11-27,01:00,Jardim Zoológico de Brasília,DF04,MP10,24.55,ug/m3,manual
+2018-11-14,01:00,Fercal I,DF01,PTS,285.71,ug/m3,manual
+2018-11-02,01:00,Fercal - Escola,DF11,PTS,41.47,ug/m3,manual
+2018-11-08,01:00,Fercal - Escola,DF11,PTS,17.17,ug/m3,manual
+2018-11-14,01:00,Fercal - Escola,DF11,PTS,33.79,ug/m3,manual
+2018-11-20,01:00,Fercal - Escola,DF11,PTS,42.12,ug/m3,manual
+2018-11-27,01:00,Fercal - Escola,DF11,PTS,15.6,ug/m3,manual
+2018-12-02,01:00,Rodoviária do Plano Piloto,DF03,MP10,17.89,ug/m3,manual
+2018-12-08,01:00,Rodoviária do Plano Piloto,DF03,MP10,22.4,ug/m3,manual
+2018-12-14,01:00,Rodoviária do Plano Piloto,DF03,MP10,53.61,ug/m3,manual
+2018-12-08,01:00,Jardim Zoológico de Brasília,DF04,MP10,3.94,ug/m3,manual
+2018-12-14,01:00,Jardim Zoológico de Brasília,DF04,MP10,16.68,ug/m3,manual
+2018-12-20,01:00,Jardim Zoológico de Brasília,DF04,MP10,28.44,ug/m3,manual
+2018-12-14,01:00,Fercal I,DF01,MP10,39.63,ug/m3,manual
+2018-12-20,01:00,Fercal I,DF01,MP10,45.77,ug/m3,manual
+2018-12-02,01:00,Fercal I,DF01,PTS,61.06,ug/m3,manual
+2018-12-14,01:00,Fercal I,DF01,PTS,126.65,ug/m3,manual
+2018-12-20,01:00,Fercal I,DF01,PTS,151.85,ug/m3,manual
+2018-12-02,01:00,Fercal - Escola,DF11,PTS,14.39,ug/m3,manual
+2018-12-14,01:00,Fercal - Escola,DF11,PTS,49.13,ug/m3,manual
+2018-12-20,01:00,Fercal - Escola,DF11,PTS,54.33,ug/m3,manual
+2018-12-20,01:00,IFB - Samambaia,DF10,PTS,45.73,ug/m3,manual
+2018-12-26,01:00,IFB - Samambaia,DF10,PTS,43.79,ug/m3,manual
