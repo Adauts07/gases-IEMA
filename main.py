@@ -9,9 +9,11 @@ import csv
 import os
 import chardet
 import plotly.express as px
+from pathlib import Path
 
 #caminho da pasta Dados_Ar
-caminho_pasta = '/home/adautopacheco/Importante/citilab/Dados_Ar'
+caminho_pasta = Path.home() / "Documents" / "Importante" / "gases-IEMA" / "Dados_Ar"
+
 
 #coordenadas das estações
 estacoes = {'Rodoviária': [-15.793250313259408, -47.882858046886724],
